@@ -1,3 +1,3 @@
 # Spring_Framework_Presentation
-A Spring Framework Presentation
-Software Technology 2017-2018
+**A Spring Framework Presentation
+**Software Technology Project 2 (2017-2018)
